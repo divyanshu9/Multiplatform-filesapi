@@ -6,3 +6,6 @@ LOGIN API USAGE
 
 Files API USAGE
 - http://filesapi.epizy.com/api.php?apikey=[]   ( apikey is given on profile page )
+
+# NOTE
+Import login.sql to mysql database
